@@ -1,1 +1,2 @@
 # SRS-FOR-ONLINE-BANKING-SYSTEM
+A user can utilise online banking to make financial transactions over the Internet. Internet banking or web banking are other names for online banking.Customers can access practically all of the services typically provided by a local branch of banking online, including deposits, transfers, and online bill payment. Almost all banks offer some type of internet banking, which is accessible through desktop and mobile apps.
